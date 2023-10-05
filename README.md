@@ -1,2 +1,2 @@
 # MyProjects
-GeekBrains tasks for GIT
+GeekBrains tasks for learn GIT
